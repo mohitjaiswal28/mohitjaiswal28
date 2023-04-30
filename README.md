@@ -6,7 +6,7 @@ I am **Second Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT A
 
 - 🔭 I’m currently learning and working on web development projects.
 - 🧑🏻‍💻 **Languages** **-** C/C++ | Java
-- 🌐 **Technolgies** **-** HTML5 | CSS3 
+- 🌐 **Technolgies** **-** HTML5 | CSS3 | Javascript6
 - 💻 **Frameworks** **-**  Bootstrap5 
 - ⚙️ **Tools** **-** VS Code | GitHub 
 - ⚡Open for Internship oppurtunities and Project collaborations.
