@@ -13,12 +13,7 @@ I am **Second Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT A
 - 📫 Shoot me an mail: mohtijaiswal2883@gmail.com
 
 
-- **Youtube: [Subscribe](https://www.youtube.com/@mohitjaiswal28)**
-
-
-<br>
-
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitjaiswal28&theme=moltack&show_icons=true)
+- **Youtube: [mohitjaiswal28](https://www.youtube.com/@mohitjaiswal28)**
 
 <br>
 <a href="https://www.linkedin.com/in/mohitjaiswal28/">
