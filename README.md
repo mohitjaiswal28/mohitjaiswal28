@@ -4,13 +4,13 @@ I am **Second Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT A
 
 <img align="right" alt="GIF" height="150px" width="200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently learning and working on web development projects.
+- 🔭 Learning MERN Stack and working on web development projects.
 - 🧑🏻‍💻 **Languages** **-** C/C++ | Java
-- 🌐 **Technolgies** **-** HTML5 | CSS3 | Javascript6
-- 💻 **Frameworks** **-**  Bootstrap5 
-- ⚙️ **Tools** **-** VS Code | GitHub 
-- ⚡Open for Internship oppurtunities and Project collaborations.
-- 📫 Shoot me an mail: mohtijaiswal2883@gmail.com
+- 🌐 **Frontend Technologies** **-** HTML5 | CSS3 | Javascript6 | Bootstrap | jQuery
+- 💻 **Backend Technologies** **-**  nodeJS 
+- ⚙️ **Tools** **-** Git | GitHub | VS Code 
+- ⚡Open for Internship opportunities and Project collaborations.
+- 📫 Shoot me an E-mail: mohtijaiswal2883@gmail.com
 
 
 - **Youtube: [mohitjaiswal28](https://www.youtube.com/@mohitjaiswal28)**
