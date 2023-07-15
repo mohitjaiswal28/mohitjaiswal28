@@ -28,7 +28,7 @@ I am **Second Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT A
   <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/color/2x/instagram-new.png" />
 </a>
 
-<a href="[https://www.instagram.com/mohitjaiswal.28/](https://mohitjaiswal.com/)">
-  <img align="left" alt="Mohit's Instagram" width="35px" src="[https://img.icons8.com/color/2x/instagram-new.png](https://icons8.com/icon/XgVsZZvTh0tg/website)https://icons8.com/icon/XgVsZZvTh0tg/website" />
+<a href="https://mohitjaiswal.com/">
+  <img align="left" alt="Mohit's Instagram" width="35px" src="https://icons8.com/icon/XgVsZZvTh0tg/website" />
 </a>
 
