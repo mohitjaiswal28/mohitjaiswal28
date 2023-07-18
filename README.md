@@ -6,8 +6,8 @@ I am **Second Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT A
 
 - 🔭 Learning MERN Stack and working on web development projects.
 - 🧑🏻‍💻 **Languages** **-** C/C++ | Java
-- 🌐 **Frontend Technologies** **-** HTML5 | CSS3 | Javascript6 | Bootstrap | jQuery
-- 💻 **Backend Technologies** **-**  nodeJS 
+- 🌐 **Frontend Technologies/Frameworks** **-** HTML5 | CSS3 | Javascript6 | Bootstrap | jQuery
+- 💻 **Backend Technologies/Frameworks** **-**  nodeJS 
 - ⚙️ **Tools** **-** Git | GitHub | VS Code 
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: mohtijaiswal2883@gmail.com
