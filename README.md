@@ -2,7 +2,7 @@
 
 I am **Second Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Academy of Engineering, Pune.](https://mitaoe.ac.in/)**
 
-<img align="right" alt="GIF" height="150px" width="200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" height="150px" width="200px" src="https://i.ibb.co/1Q5gT1N/Demo.png" />
 
 - 🔭 Learning MERN Stack and working on web development projects.
 - 🧑🏻‍💻 **Languages** **-** C/C++ | Java
