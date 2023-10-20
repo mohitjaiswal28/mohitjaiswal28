@@ -32,3 +32,5 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
   <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/?size=512&id=103413&format=png" />
 </a>
 
+
+[![An image of @mohitjaiswal28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitjaiswal28)](https://holopin.io/@mohitjaiswal28)
