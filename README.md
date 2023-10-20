@@ -4,10 +4,11 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 
 <img align="right" alt="GIF" height="150px" width="200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 Learning MERN Stack and working on web development projects.
-- 🧑🏻‍💻 **Languages** **-** C/C++ | Java
-- 🌐 **Frontend Technologies/Frameworks** **-** HTML5 | CSS3 | Javascript6 | Bootstrap | jQuery
-- 💻 **Backend Technologies/Frameworks** **-**  nodeJS 
+- 🔭 Web Developer (MERN Stack)
+- 🧑🏻‍💻 **Languages** **-** C/C++ | Python
+- 🌐 **Frontend Technologies/Frameworks** **-** HTML5 | CSS3 | Javascript6 | Bootstrap | jQuery | React.js
+- 💻 **Backend Technologies/Frameworks** **-**  Node.js | Express.js
+- 📊 **Database** **-**  MongoDB
 - ⚙️ **Tools** **-** Git | GitHub | VS Code 
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: mohtijaiswal2883@gmail.com
@@ -32,7 +33,6 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
   <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/?size=512&id=103413&format=png" />
 </a>
 
-<br>
 <br>
 <br>
 <br>
