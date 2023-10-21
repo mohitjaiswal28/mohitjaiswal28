@@ -14,7 +14,6 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 
 - **Youtube: [mohitjaiswal28](https://www.youtube.com/@mohitjaiswal28)**
 
-<br>
 <a href="https://www.linkedin.com/in/mohitjaiswal28/">
   <img align="left" alt="Mohit's LinkdeIn" width="35px" src="https://img.icons8.com/fluency/2x/linkedin.png" />
 </a>
@@ -43,4 +42,6 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 
 
 
+
+<br>
 [![An image of @mohitjaiswal28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitjaiswal28)](https://holopin.io/@mohitjaiswal28)
