@@ -1,8 +1,6 @@
 ### Hi, I'm Mohit Jaiswal 👋
 
 I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Academy of Engineering, Pune.](https://mitaoe.ac.in/)**
- <br>
-<img align="left" alt="GIF" height="150px" width="200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 Web Developer (MERN Stack)
 - 🧑🏻‍💻 **Languages** **-** C/C++ | Python
@@ -33,6 +31,12 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
   <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/?size=512&id=103413&format=png" />
 </a>
 
+<br>
+<br>
+
+<img align="left" alt="GIF" height="150px" width="200px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
+
+<br>
 <br>
 <br>
 <br>
