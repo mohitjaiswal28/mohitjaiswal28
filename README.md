@@ -15,11 +15,11 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 - **Youtube: [mohitjaiswal28](https://www.youtube.com/@mohitjaiswal28)**
 
 <a href="https://www.linkedin.com/in/mohitjaiswal28/">
-  <img align="left" alt="Mohit's LinkdeIn" width="35px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
+  <img align="left" alt="Mohit's LinkdeIn" width="35px" src="https://img.icons8.com/color/2x/linkedin--v4.png" />
 </a>
 
 <a href="https://twitter.com/mohitjaiswal28_">
-  <img align="left" alt="Mohit's Twitter" width="35px" src="https://img.icons8.com/color/2x/twitter--v4.png" />
+  <img align="left" alt="Mohit's Twitter" width="35px" src="https://img.icons8.com/color/2x/x--v4.png" />
 </a>
 
 <a href="https://www.instagram.com/mohitjaiswal.28/">
