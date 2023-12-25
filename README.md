@@ -15,7 +15,7 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 - **Youtube: [mohitjaiswal28](https://www.youtube.com/@mohitjaiswal28)**
 
 <a href="https://www.linkedin.com/in/mohitjaiswal28/">
-  <img align="left" alt="Mohit's LinkdeIn" width="35px" src="https://icons8.com/icon/111057/x" />
+  <img align="left" alt="Mohit's LinkdeIn" width="35px" src="[https://icons8.com/icon/111057/x](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)" />
 </a>
 
 <a href="https://twitter.com/mohitjaiswal28_">
