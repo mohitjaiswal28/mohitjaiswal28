@@ -19,7 +19,7 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 </a>
 
 <a href="https://twitter.com/mohitjaiswal28_">
-  <img align="left" alt="Mohit's Twitter" width="35px" src="https://img.icons8.com/color/2x/x--v4.png" />
+  <img align="left" alt="Mohit's Twitter" width="35px" src="https://img.icons8.com/color/2x/x--v5.png" />
 </a>
 
 <a href="https://www.instagram.com/mohitjaiswal.28/">
