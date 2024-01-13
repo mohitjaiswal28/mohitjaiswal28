@@ -7,6 +7,7 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 - 🌐 **Frontend Technologies/Frameworks** **-** HTML5 | CSS3 | Javascript6 | Bootstrap | jQuery | React.js
 - 💻 **Backend Technologies/Frameworks** **-**  Node.js | Express.js
 - 📊 **Database** **-**  MongoDB
+- ☁️ **DevOps** **-** AWS 
 - ⚙️ **Tools** **-** Git | GitHub | VS Code 
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: mohtijaiswal2883@gmail.com
