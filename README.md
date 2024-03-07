@@ -31,3 +31,4 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
   <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/?size=512&id=103413&format=png" />
 </a>
 
+![snake gif](https://github.com/mohitjaiswal28/mohitjaiswal28/blob/output/github-contribution-grid-snake.gif)
