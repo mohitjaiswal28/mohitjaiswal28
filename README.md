@@ -9,7 +9,7 @@ I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 - 📊 **Database** **-**  MongoDB | MySQL
 - ☁️ **DevOps** **-** AWS | Terraform
 - 📦 **AWS Services** **-** EC2 | VPC | S3 | Lamda | API Gateway | SNS | CI/CD | Boto3 | DynamoDB | RDS
-- ⚙️ **Tools** **-** Git | GitHub | VS Code 
+- ⚙️ **Tools** **-** Git | GitHub | VS Code | Postman/Thunder
 - 📫 Shoot me an E-mail: mohtijaiswal2883@gmail.com
 
 
