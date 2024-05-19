@@ -2,12 +2,13 @@
 
 I am **Third Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Academy of Engineering, Pune.](https://mitaoe.ac.in/)**
 
-- 🔭 Web Developer (MERN Stack)
-- 🧑🏻‍💻 **Languages** **-** C/C++ | Python
-- 🌐 **Frontend Technologies/Frameworks** **-** HTML5 | CSS3 | Javascript6 | Bootstrap | jQuery | React.js
+- 🔭 Web Developer (MERN Stack) | DevOps
+- ⭐ **Languages** **-** C/C++ | Python
+- 🌐 **Frontend Technologies/Frameworks** **-** HTML5 | CSS3 | Javascript6 | Bootstrap| Tailwind.css | jQuery | React.js
 - 💻 **Backend Technologies/Frameworks** **-**  Node.js | Express.js
 - 📊 **Database** **-**  MongoDB | MySQL
-- ☁️ **DevOps** **-** AWS 
+- ☁️ **DevOps** **-** AWS | Terraform
+- 📦 **AWS Services** **-** EC2 | VPC | S3 | Lamda | API Gateway | SNS | CI/CD | Boto3 | DynamoDB | RDS
 - ⚙️ **Tools** **-** Git | GitHub | VS Code 
 - ⚡Open for Internship opportunities and Project collaborations.
 - 📫 Shoot me an E-mail: mohtijaiswal2883@gmail.com
