@@ -27,7 +27,7 @@ I am **Final Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
   <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/color/2x/instagram-new.png" />
 </a>
 
-<a href="https://mohitjaiswal.com/">
+<a href="https://mohitjaiswal.me/">
   <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/?size=512&id=103413&format=png" />
 </a>
 <br>
