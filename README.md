@@ -73,6 +73,9 @@ I am **Final Year** B.Tech Student pursuing **Computer Engineering** @ **[MIT Ac
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohitjaiswal28&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjaiswal28&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![image](https://github.com/user-attachments/assets/1dc10c0f-0ca3-47d0-8577-d2dfe0e22055)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
