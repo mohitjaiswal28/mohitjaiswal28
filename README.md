@@ -1,12 +1,10 @@
 I am a Final Year B.Tech Student pursuing Computer Engineering at MIT Academy of Engineering, Pune.
 
-➡️ A passionate Software Engineer thriving in dynamic, collaborative environments, and experienced in technologies like Angular, TypeScript & TailwindCSS for frontend development and Node.js for efficient backend solutions. 🚀
+➡️ A passionate Software Engineer thriving in dynamic, collaborative environments, and experienced in technologies like Angular/React.js, TypeScript & TailwindCSS for frontend development and Node.js for efficient backend solutions. 🚀
 
 ➡️ I have hands-on experience with AWS services such as IAM, EC2, VPC, S3, Lambda, API Gateway, SNS, DynamoDB, and RDS, enabling scalable cloud integrations and utilizing CloudFormation for efficient infrastructure provisioning. ☁️
 
 ➡️ I am actively learning and practicing DSA problem-solving in C++. 🔥
-
-➡️ Currently, I am working as a Frontend Engineer at Bynry Inc. deepening my skills in RESTful API Integrartion, module development, frontend designs, and optimization while collaborating with cross-functional teams to enhance application features and improve user experience. 🌐
 
 I am open to collaborating on projects and exploring work opportunities where I can contribute my skills, and learn and grow from others!
 
