@@ -1,32 +1,46 @@
-I am a Final Year B.Tech Student pursuing Computer Engineering at MIT Academy of Engineering, Pune.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-➡️ A passionate Software Engineer thriving in dynamic, collaborative environments, and experienced in technologies like Angular/React.js, TypeScript & TailwindCSS for frontend development and Node.js for efficient backend solutions. 🚀
+###
 
-➡️ I have hands-on experience with AWS services such as IAM, EC2, VPC, S3, Lambda, API Gateway, SNS, DynamoDB, and RDS, enabling scalable cloud integrations and utilizing CloudFormation for efficient infrastructure provisioning. ☁️
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitjaiswal28&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjaiswal28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-➡️ I am actively learning and practicing DSA problem-solving in C++. 🔥
+###
 
-I am open to collaborating on projects and exploring work opportunities where I can contribute my skills, and learn and grow from others!
+<img src="https://raw.githubusercontent.com/mohitjaiswal28/mohitjaiswal28/output/snake.svg" alt="Snake animation" />
 
-<a href="https://www.linkedin.com/in/mohitjaiswal28/">
-  <img align="left" alt="Mohit's LinkdeIn" width="35px" src="https://img.icons8.com/color/2x/linkedin--v4.png" />
-</a>
+###
 
-<a href="https://twitter.com/mohitjaiswal28_">
-  <img align="left" alt="Mohit's Twitter" width="35px" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" />
-</a>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mohitjaiswal28/count.svg?"  />
+</div>
 
-<a href="https://www.instagram.com/mohitjaiswal.28/">
-  <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/color/2x/instagram-new.png" />
-</a>
-
-<a href="https://mohitjaiswal.me/">
-  <img align="left" alt="Mohit's Instagram" width="35px" src="https://img.icons8.com/?size=512&id=103413&format=png" />
-</a>
-<br>
-<br>
-
-# GitHub Stats 🔥
-![](https://github-readme-stats.vercel.app/api?username=mohitjaiswal28&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitjaiswal28&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjaiswal28&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
