@@ -1,3 +1,14 @@
+1. Hi, I’m Mohit, a Software Engineer passionate about building performant, scalable web applications and clean backend systems. I specialize in modern frontend frameworks like React, Angular, and TypeScript, with UI expertise in Tailwind CSS and Ant Design. On the backend, I work with Node.js and Express, building RESTful APIs and microservices.
+
+2. Beyond development, I bring a understanding of cloud infrastructure, having worked hands-on with AWS services including IAM, EC2, VPC, S3, and Lambda. 
+
+3. Currently exploring advanced React patterns, GraphQL, and AI tools for developers. 
+Always open to learning, collaborating, or discussing ideas around software architecture.
+
+Let’s connect and build something impactful! 🚀
+
+<br/>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
