@@ -1,8 +1,10 @@
-1. Hi, I’m Mohit, a Software Engineer passionate about building performant, scalable web applications and clean backend systems. I specialize in modern frontend frameworks like React, Angular, and TypeScript, with UI expertise in Tailwind CSS and Ant Design. On the backend, I work with Node.js and Express, building RESTful APIs and microservices.
+Hi, I’m Mohit 👋 
 
-2. Beyond development, I bring a understanding of cloud infrastructure, having worked hands-on with AWS services including IAM, EC2, VPC, S3, and Lambda. 
+- I’m a software engineer who builds and learns about web apps and backend systems. I work mainly with React, Angular, and TypeScript on the frontend, and Node.js with Express on the backend.
 
-3. Currently exploring advanced React patterns, GraphQL, and AI tools for developers. 
+- Beyond development, I bring an understanding of cloud infrastructure, having worked hands-on with AWS services (including IAM, EC2, VPC, S3, and Lambda) and Docker.
+
+Currently exploring advanced React patterns, GraphQL, and AI tools for developers. 
 Always open to learning, collaborating, or discussing ideas around software architecture.
 
 Let’s connect and build something impactful! 🚀
@@ -25,8 +27,6 @@ Let’s connect and build something impactful! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
