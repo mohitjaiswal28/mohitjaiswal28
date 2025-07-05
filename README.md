@@ -14,8 +14,6 @@ Let’s connect and build something impactful! 🚀
 <div align="left">
   <img src="./Icons/React.png" width="52px" alt="React" /> 
   <img width="2px" />
-  <img src="./Icons/Angular.png" width="60px" alt="Angular" /> 
-  <img width="0px" />
   <img src="./Icons/JavaScript.png" width="52px" alt="JavaScript" /> 
   <img width="2px" />
   <img src="./Icons/TypeScript.png" width="52px" alt="TypeScript" /> 
