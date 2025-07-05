@@ -12,28 +12,16 @@ Let’s connect and build something impactful! 🚀
 <br/>
 
 <div align="left">
-  <img src="./Icons/React.png" height="40" alt="React"  />
-  <img width="12" />
-  <img src="./Icons/Angular.png" height="40" alt="Angular"  />
-  <img width="12" />
-  <img src="./Icons/JavaScript.png" height="40" alt="JavaScript"  />
-  <img width="12" />
-  <img src="./Icons/TypeScript.png" height="40" alt="Typescript"  />
-  <img width="12" />
-  <img src="./Icons/Node.js.png" height="40" alt="Node.js"  />
-  <img width="12" />
-  <img src="./Icons/GraphQL.png" height="40" alt="GraphQL"  />
-  <img width="12" />
-  <img src="./Icons/PostgresSQL.png" height="40" alt="PostgreSQL"  />
-  <img width="12" />
-  <img src="./Icons/MongoDB.png" height="40" alt="MongoDB"  />
-  <img width="12" />
-  <img src="./Icons/AWS.png" height="40" alt="AWS"  />
-  <img width="12" />
-  <img src="./Icons/Docker.png" height="40" alt="Docker"  />
-  <img width="12" />
-  <img src="./Icons/Git.png" height="40" alt="Git"  />
-  <img width="12" />
-  <img src="./Icons/C++ (CPlusPlus).png" height="40" alt="C++"  />
+  <img src="./Icons/React.png" height="28" alt="React" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/Angular.png" height="28" alt="Angular" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/JavaScript.png" height="28" alt="JavaScript" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/TypeScript.png" height="28" alt="TypeScript" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/Node.js.png" height="28" alt="Node.js" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/GraphQL.png" height="28" alt="GraphQL" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/PostgresSQL.png" height="28" alt="PostgreSQL" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/MongoDB.png" height="28" alt="MongoDB" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/AWS.png" height="28" alt="AWS" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/Docker.png" height="28" alt="Docker" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/Git.png" height="28" alt="Git" style="margin-right: 8px; vertical-align: middle;" />
+  <img src="./Icons/C++ (CPlusPlus).png" height="28" alt="C++" style="margin-right: 8px; vertical-align: middle;" />
 </div>
-
