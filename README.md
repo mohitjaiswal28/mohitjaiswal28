@@ -1,37 +1,43 @@
-Hi, I’m Mohit 👋 
+# Hi, I'm Mohit 👋
 
-- I’m a software engineer who builds and learns about web apps and backend systems. I work mainly with React, Angular, and TypeScript on the frontend, and Node.js with Express on the backend.
+1. I'm a Software Engineer focused on building and managing applications. My work is centred on creating functional and efficient software solutions that deliver a great user experience. 
 
-- Beyond development, I bring an understanding of cloud infrastructure, having worked hands-on with AWS services (including IAM, EC2, VPC, S3, and Lambda) and Docker.
+2. I have experience building user interfaces with React, Angular, TypeScript, and Tailwind CSS. On the backend, I have implemented services with Node.js, Express, and GraphQL. 
 
-Currently exploring advanced React patterns, GraphQL, and AI tools for developers. 
-Always open to learning, collaborating, or discussing ideas around software architecture.
+3. Beyond development, I bring an understanding of cloud infrastructure, having worked hands-on with AWS services (including IAM, EC2, VPC, S3, and Lambda) and Docker.
 
-Let’s connect and build something impactful! 🚀
+4. I'm always learning and recently have been exploring how AI tools can support development work. 
 
-<br /> 
+5. I'm open to connecting with other professionals to collaborate, exchange ideas, or discuss software design and development. 🚀
 
-<div align="left">
-  <img src="./Icons/React.png" width="52px" alt="React" /> 
-  <img width="2px" />
-  <img src="./Icons/JavaScript.png" width="52px" alt="JavaScript" /> 
-  <img width="2px" />
-  <img src="./Icons/TypeScript.png" width="52px" alt="TypeScript" /> 
-  <img width="2px" />
-  <img src="./Icons/Node.js.png" width="52px" alt="Node.js" /> 
-  <img width="2px" />
-  <img src="./Icons/GraphQL.png" width="52px" alt="GraphQL" /> 
-  <img width="2px" />
-  <img src="./Icons/PostgresSQL.png" width="52px" alt="PostgreSQL" /> 
-  <img width="2px" />
-  <img src="./Icons/MongoDB.png" width="52px" alt="MongoDB" /> 
-  <img width="2px" />
-  <img src="./Icons/AWS.png" width="52px" alt="AWS" /> 
-  <img width="2px" />
-  <img src="./Icons/Docker.png" width="52px" alt="Docker" /> 
-  <img width="2px" />
-  <img src="./Icons/Git.png" width="52px" alt="Git" /> 
-  <img width="2px" />
-  <img src="./Icons/C++ (CPlusPlus).png" width="52px" alt="C++" /> 
-  <img width="2px" />
-</div>
+---
+
+## 🚀 Technical skills
+
+| Category          | Skills                                                                 |
+| ----------------- | ---------------------------------------------------------------------- |
+| **Frontend**      | React, Angular, TypeScript, JavaScript, Tailwind CSS, AntD     |
+| **Backend**       | Node.js, GraphQL                                                  |
+| **Databases**     | PostgreSQL, MongoDB                                                    |
+| **Cloud & DevOps**| AWS (IAM, EC2, VPC, S3, Lambda), Docker                                |
+| **Version Control**| Git, GitHub                                                            |
+| **Other**         |  C++, ChatGPT and more                                              |
+
+---
+
+## 📕 Currently Exploring
+
+1. Advanced **React patterns** for large-scale applications.
+2. **GraphQL** for building more efficient APIs.
+3. **AI tools for developers** to boost productivity.
+
+---
+
+## 🌐 Find Me Online
+
+1. **Portfolio:** [mohitjaiswal.in](https://mohitjaiswal.in)
+2. **LinkedIn:** [mohitjaiswal28](https://linkedin.com/in/mohitjaiswal28)
+3. **GitHub:** [mohitjaiswal28](https://github.com/mohitjaiswal28)
+4. Common Username: `mohitjaiswal28`
+
+📩 **Let’s collaborate and build something impactful!**
