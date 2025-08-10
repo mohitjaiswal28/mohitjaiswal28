@@ -10,8 +10,6 @@
 
 5. I'm open to connecting with other professionals to collaborate, exchange ideas, or discuss software design and development. 🚀
 
----
-
 ## 🚀 Technical skills
 
 | Category          | Skills                                                                 |
@@ -23,15 +21,11 @@
 | **Version Control**| Git, GitHub                                                            |
 | **Other**         |  C++, ChatGPT and more                                              |
 
----
-
 ## 📕 Currently Exploring
 
 1. Advanced **React patterns** for large-scale applications.
 2. **GraphQL** for building more efficient APIs.
 3. **AI tools for developers** to boost productivity.
-
----
 
 ## 🌐 Find Me Online
 
