@@ -19,7 +19,7 @@
 | **Databases**     | PostgreSQL, MongoDB                                                    |
 | **Cloud & DevOps**| AWS (IAM, EC2, VPC, S3, Lambda), Docker                                |
 | **Version Control**| Git, GitHub                                                            |
-| **Other**         |  C++, ChatGPT and more                                              |
+| **Other**         |  ChatGPT and more                                              |
 
 ## 📕 Currently Exploring
 
@@ -31,7 +31,6 @@
 
 1. **Portfolio:** [mohitjaiswal.in](https://mohitjaiswal.in)
 2. **LinkedIn:** [mohitjaiswal28](https://linkedin.com/in/mohitjaiswal28)
-3. **GitHub:** [mohitjaiswal28](https://github.com/mohitjaiswal28)
-4. Common Username: `mohitjaiswal28`
+3. Common Username: `mohitjaiswal28`
 
 📩 **Let’s collaborate and build something impactful!**
