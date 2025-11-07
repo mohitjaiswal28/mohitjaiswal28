@@ -1,14 +1,12 @@
 # Hi, I'm Mohit 👋
 
-1. I'm a Software Engineer focused on building and managing applications. My work is centred on creating functional and efficient software solutions that deliver a great user experience. 
+1. I'm a Software Engineer with a focus on building & improving scalable applications and seamless user experiences.
 
-2. I have experience building user interfaces with React, Angular, TypeScript, and Tailwind CSS. On the backend, I have implemented services with Node.js, Express, and GraphQL. 
+2. I’ve worked across the stack, from frontend (React, Angular, TypeScript, Tailwind CSS) to backend (Node.js, Express, GraphQL).
+  
+3. Beyond development, I bring an understanding of cloud infrastructure, having worked hands-on experience with AWS services (including IAM, EC2, VPC, S3, CloudWatch, Lambda, etc) and Docker.
 
-3. Beyond development, I bring an understanding of cloud infrastructure, having worked hands-on with AWS services (including IAM, EC2, VPC, S3, and Lambda) and Docker.
-
-4. I'm always learning and recently have been exploring how AI tools can support development work. 
-
-5. I'm open to connecting with other professionals to collaborate, exchange ideas, or discuss software design and development. 🚀
+5. Always happy to chat about interesting tech ideas, share learnings, or build something new. 🚀
 
 ## 🚀 Technical skills
 
@@ -17,15 +15,9 @@
 | **Frontend**      | React, Angular, TypeScript, JavaScript, Tailwind CSS, AntD     |
 | **Backend**       | Node.js, GraphQL                                                  |
 | **Databases**     | PostgreSQL, MongoDB                                                    |
-| **Cloud & DevOps**| AWS (IAM, EC2, VPC, S3, Lambda), Docker                                |
+| **Cloud & DevOps**| AWS (IAM, EC2, VPC, S3, CloudWatch, Lambda, etc) and Docker                                |
 | **Version Control**| Git, GitHub                                                            |
-| **Other**         |  ChatGPT and more                                              |
-
-## 📕 Currently Exploring
-
-1. Advanced **React patterns** for large-scale applications.
-2. **GraphQL** for building more efficient APIs.
-3. **AI tools for developers** to boost productivity.
+| **Other (AI tools)**         |  ChatGPT and more                                              |
 
 ## 🌐 Find Me Online
 
